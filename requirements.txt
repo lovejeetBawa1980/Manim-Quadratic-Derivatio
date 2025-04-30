@@ -1,0 +1,5 @@
+manim==0.17.0
+numpy
+scipy
+matplotlib
+mapbox-earcut==0.12.11
