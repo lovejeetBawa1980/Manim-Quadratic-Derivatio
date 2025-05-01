@@ -1,3 +1,5 @@
+# This project visually explains the derivation of this formula step by step, enhancing understanding through animations. 
+
 # Manim Quadratic Formula Project
 
 This project demonstrates the derivation of the quadratic formula using Manim, a mathematical animation engine. The animations are designed to be smooth and visually appealing, featuring elegant color gradients.
@@ -32,10 +34,8 @@ This command will render the `QuadraticFormulaScene` in low quality and open the
 ## Overview of the Quadratic Formula
 
 The quadratic formula is used to find the roots of a quadratic equation of the form:
-\[ ax^2 + bx + c = 0 \]
+`ax² + bx + c = 0`
 
 The formula is given by:
 
-\[ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \]
-
-This project visually explains the derivation of this formula step by step, enhancing understanding through animations. 
+`x = -b ± √b² - 4ac / 2a`
